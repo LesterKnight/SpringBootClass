@@ -27,6 +27,7 @@ dependencies {
 	implementation 'org.webjars.npm:bower:1.8.12'
 	implementation 'org.webjars.bower:open-iconic:1.1.1'
 	implementation 'org.webjars.bower:jquery-mask-plugin:1.10.13'
+	runtimeOnly 'com.mysql:mysql-connector-j'
 
 }
 
