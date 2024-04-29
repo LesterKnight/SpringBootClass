@@ -1,7 +1,5 @@
 package com.miranda.dao;
-
 import com.miranda.domain.Funcionario;
-
 import java.util.List;
 
 public interface IFuncionarioDao {
